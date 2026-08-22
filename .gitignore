@@ -1,0 +1,9 @@
+# Obsidian user interface state and local vault settings
+.obsidian/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
